@@ -1,0 +1,230 @@
+codigo_ine,municipio,comarca,provincia,poblacion,distancia_km,costa
+080193,Barcelona,Barcelonès,Barcelona,1636193,0,1
+081017,L'Hospitalet de Llobregat,Barcelonès,Barcelona,265444,0,0
+080155,Badalona,Barcelonès,Barcelona,223506,10,1
+082457,Santa Coloma de Gramenet,Barcelonès,Barcelona,117981,9,0
+081944,Sant Adrià de Besòs,Barcelonès,Barcelona,36918,8,1
+082798,Terrassa,Vallès Occidental,Barcelona,224114,28,0
+081878,Sabadell,Vallès Occidental,Barcelona,215760,26,0
+082055,Sant Cugat del Vallès,Vallès Occidental,Barcelona,95744,17,0
+081843,Rubí,Vallès Occidental,Barcelona,79007,24,0
+082665,Cerdanyola del Vallès,Vallès Occidental,Barcelona,57291,18,0
+081800,Ripollet,Vallès Occidental,Barcelona,39031,16,0
+081251,Montcada i Reixac,Vallès Occidental,Barcelona,36666,14,0
+082520,Barberà del Vallès,Vallès Occidental,Barcelona,33322,19,0
+080518,Castellar del Vallès,Vallès Occidental,Barcelona,24900,34,0
+082602,Santa Perpètua de Mogoda,Vallès Occidental,Barcelona,25930,20,0
+082384,Sant Quirze del Vallès,Vallès Occidental,Barcelona,20180,25,0
+082536,Sant Feliu del Racó (Castellar),Vallès Occidental,Barcelona,6000,36,0
+081202,Matadepera,Vallès Occidental,Barcelona,9752,32,0
+080734,Cornellà de Llobregat,Baix Llobregat,Barcelona,89243,12,0
+082004,Sant Boi de Llobregat,Baix Llobregat,Barcelona,83371,15,0
+080569,Castelldefels,Baix Llobregat,Barcelona,67307,22,1
+083015,Viladecans,Baix Llobregat,Barcelona,66720,18,1
+081691,El Prat de Llobregat,Baix Llobregat,Barcelona,65030,11,1
+080898,Gavà,Baix Llobregat,Barcelona,47057,20,1
+080773,Esplugues de Llobregat,Baix Llobregat,Barcelona,46414,8,0
+082110,Sant Feliu de Llobregat,Baix Llobregat,Barcelona,46056,16,0
+081140,Martorell,Baix Llobregat,Barcelona,28684,32,0
+082630,Sant Vicenç dels Horts,Baix Llobregat,Barcelona,28079,21,0
+081960,Sant Andreu de la Barca,Baix Llobregat,Barcelona,26965,27,0
+081235,Molins de Rei,Baix Llobregat,Barcelona,26235,18,0
+081476,Olesa de Montserrat,Baix Llobregat,Barcelona,24272,38,0
+080760,Esparreguera,Baix Llobregat,Barcelona,22442,39,0
+082218,Sant Just Desvern,Baix Llobregat,Barcelona,19806,10,0
+082441,Sant Joan Despí,Baix Llobregat,Barcelona,34000,11,0
+080689,Cervelló,Baix Llobregat,Barcelona,9307,25,0
+080018,Abrera,Baix Llobregat,Barcelona,12697,35,0
+081574,Pallejà,Baix Llobregat,Barcelona,11500,22,0
+082179,Sant Climent de Llobregat,Baix Llobregat,Barcelona,5200,22,0
+082595,Santa Coloma de Cervelló,Baix Llobregat,Barcelona,8300,18,0
+081219,Mataró,Maresme,Barcelona,128956,31,1
+081725,Premià de Mar,Maresme,Barcelona,28518,22,1
+081638,Pineda de Mar,Maresme,Barcelona,28084,55,1
+081186,El Masnou,Maresme,Barcelona,23829,19,1
+082982,Vilassar de Mar,Maresme,Barcelona,21067,24,1
+080358,Calella,Maresme,Barcelona,19363,50,1
+081103,Malgrat de Mar,Maresme,Barcelona,19093,62,1
+080060,Arenys de Mar,Maresme,Barcelona,16155,40,1
+080076,Arenys de Munt,Maresme,Barcelona,9200,45,0
+080039,Alella,Maresme,Barcelona,9800,18,0
+080095,Argentona,Maresme,Barcelona,12500,35,0
+080402,Canet de Mar,Maresme,Barcelona,14800,43,1
+082842,Tordera,Maresme,Barcelona,17500,65,0
+082191,Sant Vicenç de Montalt,Maresme,Barcelona,6500,38,1
+080291,Cabrera de Mar,Maresme,Barcelona,4800,28,1
+080969,Granollers,Vallès Oriental,Barcelona,62419,30,0
+081240,Mollet del Vallès,Vallès Oriental,Barcelona,51294,23,0
+081593,Parets del Vallès,Vallès Oriental,Barcelona,18889,25,0
+080461,Cardedeu,Vallès Oriental,Barcelona,18785,39,0
+082026,Sant Celoni,Vallès Oriental,Barcelona,18285,52,0
+080863,Les Franqueses del Vallès,Vallès Oriental,Barcelona,20322,35,0
+081050,La Llagosta,Vallès Oriental,Barcelona,13155,19,0
+080057,L'Ametlla del Vallès,Vallès Oriental,Barcelona,8800,35,0
+080885,La Garriga,Vallès Oriental,Barcelona,16900,38,0
+082335,Sant Fost de Campsentelles,Vallès Oriental,Barcelona,8900,22,0
+082099,Santa Eulàlia de Ronçana,Vallès Oriental,Barcelona,7500,38,0
+083073,Vilanova i la Geltrú,Garraf,Barcelona,67458,45,1
+082312,Sant Pere de Ribes,Garraf,Barcelona,31602,42,0
+082705,Sitges,Garraf,Barcelona,31222,38,1
+080749,Cubelles,Garraf,Barcelona,15700,50,1
+083054,Vilafranca del Penedès,Alt Penedès,Barcelona,40056,48,0
+082401,Sant Sadurní d'Anoia,Alt Penedès,Barcelona,12863,42,0
+082517,Santa Margarida i els Monjos,Alt Penedès,Barcelona,7700,52,0
+431637,El Vendrell,Baix Penedès,Tarragona,39072,65,1
+430377,Calafell,Baix Penedès,Tarragona,29842,62,1
+430514,Cunit,Baix Penedès,Tarragona,14600,55,1
+430167,L'Arboç,Baix Penedès,Tarragona,5600,60,0
+081134,Manresa,Bages,Barcelona,77452,55,0
+082998,Vic,Osona,Barcelona,47545,70,0
+081128,Manlleu,Osona,Barcelona,21124,78,0
+082435,Sant Joan de Vilatorrada,Bages,Barcelona,11000,58,0
+080220,Berga,Berguedà,Barcelona,16762,108,0
+080383,Cardona,Bages,Barcelona,4600,90,0
+081382,Moià,Moianès,Barcelona,6500,55,0
+080443,Capellades,Anoia,Barcelona,5300,60,0
+081614,Piera,Anoia,Barcelona,16800,50,0
+170792,Girona,Gironès,Girona,102666,102,0
+170669,Figueres,Alt Empordà,Girona,47088,138,0
+170232,Blanes,Selva,Girona,40574,70,1
+170950,Lloret de Mar,Selva,Girona,38941,75,1
+171144,Olot,Garrotxa,Girona,36716,112,0
+171554,Salt,Gironès,Girona,32517,100,0
+171179,Palafrugell,Baix Empordà,Girona,23396,122,1
+171602,Sant Feliu de Guíxols,Baix Empordà,Girona,22183,105,1
+170151,Banyoles,Pla de l'Estany,Girona,20187,118,0
+171185,Palamós,Baix Empordà,Girona,18145,115,1
+171520,Roses,Alt Empordà,Girona,19907,150,1
+171470,Ripoll,Ripollès,Girona,10641,102,0
+170440,Cassà de la Selva,Gironès,Girona,10800,96,0
+170025,Aiguaviva,Gironès,Girona,5100,95,0
+170097,Arbúcies,Selva,Girona,6700,78,0
+171249,Perafita,Osona,Girona,5300,85,0
+431482,Tarragona,Tarragonès,Tarragona,134883,98,1
+431233,Reus,Baix Camp,Tarragona,106130,108,0
+430383,Cambrils,Baix Camp,Tarragona,35675,115,1
+431555,Tortosa,Baix Ebre,Tarragona,33890,175,0
+431709,Vila-seca,Tarragonès,Tarragona,22680,106,1
+430141,Amposta,Montsià,Tarragona,21183,168,0
+430443,Deltebre,Baix Ebre,Tarragona,11600,170,1
+430043,Alcanar,Montsià,Tarragona,9400,190,1
+431275,Roquetes,Baix Ebre,Tarragona,8200,178,0
+431534,Torredembarra,Tarragonès,Tarragona,17200,84,1
+431227,Vandellòs i l'Hospitalet de l'Infant,Baix Camp,Tarragona,6700,132,1
+430861,Montblanc,Conca de Barberà,Tarragona,7400,114,0
+430056,Alcover,Alt Camp,Tarragona,5200,105,0
+430120,Altafulla,Tarragonès,Tarragona,5400,88,1
+431294,Constantí,Tarragonès,Tarragona,6600,95,0
+431211,Riudoms,Baix Camp,Tarragona,6600,115,0
+431114,Móra d'Ebre,Ribera d'Ebre,Tarragona,5600,150,0
+251207,Lleida,Segrià,Lleida,140402,155,0
+250401,Balaguer,Noguera,Lleida,17472,145,0
+252178,Tàrrega,Urgell,Lleida,17445,100,0
+251371,Mollerussa,Pla d'Urgell,Lleida,14740,135,0
+252033,La Seu d'Urgell,Alt Urgell,Lleida,11004,180,0
+250720,Cervera,Segarra,Lleida,9393,102,0
+251151,Alcarràs,Segrià,Lleida,9500,165,0
+250236,Alpicat,Segrià,Lleida,6300,160,0
+252342,Tremp,Pallars Jussà,Lleida,5847,190,0
+252430,Vielha e Mijaran,Val d'Aran,Lleida,5581,280,0
+250030,Agramunt,Urgell,Lleida,5400,112,0
+250194,Almacelles,Segrià,Lleida,6800,170,0
+080106,Artés,Bages,Barcelona,5900,72,0
+080204,Begues,Baix Llobregat,Barcelona,7450,32,0
+080187,Bigues i Riells del Fai,Vallès Oriental,Barcelona,9930,41,0
+080327,Cabrils,Maresme,Barcelona,7729,27,0
+080272,Caldes de Montbui,Vallès Oriental,Barcelona,18109,34,0
+080348,Canovelles,Vallès Oriental,Barcelona,16952,31,0
+082160,Canyelles,Garraf,Barcelona,5201,46,0
+080541,Castellbisbal,Vallès Occidental,Barcelona,12733,29,0
+080673,Centelles,Osona,Barcelona,7641,54,0
+080625,Corbera de Llobregat,Baix Llobregat,Barcelona,15210,30,0
+080752,Dosrius,Maresme,Barcelona,5942,39,0
+082480,Gelida,Alt Penedès,Barcelona,7814,35,0
+080933,Gironella,Berguedà,Barcelona,4915,94,0
+081063,Llinars del Vallès,Vallès Oriental,Barcelona,10205,41,0
+081038,Lliçà de Vall,Vallès Oriental,Barcelona,6760,28,0
+081110,Masquefa,Anoia,Barcelona,9744,46,0
+081264,Montgat,Maresme,Barcelona,12277,15,1
+081347,Montmeló,Vallès Oriental,Barcelona,8793,24,0
+081299,Montornès del Vallès,Vallès Oriental,Barcelona,16707,26,0
+081400,Navarcles,Bages,Barcelona,6102,60,0
+081417,Navàs,Bages,Barcelona,6132,80,0
+081542,Palafolls,Maresme,Barcelona,9661,60,0
+081516,Palau-solità i Plegamans,Vallès Occidental,Barcelona,14911,28,0
+081622,Polinyà,Vallès Occidental,Barcelona,8584,25,0
+081817,"Roca del Vallès, la",Vallès Oriental,Barcelona,10776,36,0
+081838,Roda de Ter,Osona,Barcelona,6555,79,0
+082185,Sallent,Bages,Barcelona,6805,68,0
+081923,Santpedor,Bages,Barcelona,7604,65,0
+082645,Sant Andreu de Llavaneres,Maresme,Barcelona,11593,36,1
+082157,Sant Antoni de Vilamajor,Vallès Oriental,Barcelona,6483,44,0
+082554,Sant Esteve Sesrovires,Baix Llobregat,Barcelona,7889,38,0
+082244,Sant Fruitós de Bages,Bages,Barcelona,9025,57,0
+082976,Vilassar de Dalt,Maresme,Barcelona,9128,26,0
+081710,Premià de Dalt,Maresme,Barcelona,10400,24,0
+082292,Sant Pere de Vilamajor,Vallès Oriental,Barcelona,4815,46,0
+082329,Sant Pol de Mar,Maresme,Barcelona,5680,48,1
+082418,Santa Margarida de Montbui,Anoia,Barcelona,9803,66,0
+082423,Sant Vicenç de Castellet,Bages,Barcelona,9949,52,0
+082103,Sentmenat,Vallès Occidental,Barcelona,9417,32,0
+082682,Súria,Bages,Barcelona,5921,72,0
+082756,Taradell,Osona,Barcelona,6809,75,0
+082836,Teià,Maresme,Barcelona,6635,22,0
+082820,Tiana,Maresme,Barcelona,9110,17,0
+082868,Torelló,Osona,Barcelona,14757,82,0
+082496,Torrelles de Llobregat,Baix Llobregat,Barcelona,6188,25,0
+082900,Vacarisses,Vallès Occidental,Barcelona,7400,42,0
+082576,Vallirana,Baix Llobregat,Barcelona,15312,28,0
+082921,Viladecavalls,Vallès Occidental,Barcelona,7644,32,0
+082942,Vilanova del Camí,Anoia,Barcelona,12699,64,0
+082937,Vilanova del Vallès,Vallès Oriental,Barcelona,5557,30,0
+081398,Badia del Vallès,Vallès Occidental,Barcelona,13163,20,0
+170118,Anglès,Selva,Girona,5680,101,0
+170200,Bescanó,Gironès,Girona,5154,98,0
+170010,"Bisbal d'Empordà, la",Baix Empordà,Girona,11137,120,0
+170414,Caldes de Malavella,Selva,Girona,8165,85,0
+170310,Calonge i Sant Antoni,Baix Empordà,Girona,11712,112,1
+170496,Celrà,Gironès,Girona,5503,109,0
+170624,"Escala, l'",Alt Empordà,Girona,10520,140,1
+170938,Llagostera,Gironès,Girona,9024,90,0
+170922,Llançà,Alt Empordà,Girona,4905,160,1
+171030,Maçanet de la Selva,Selva,Girona,7572,78,0
+171413,Puigcerdà,Cerdanya,Girona,9484,151,0
+171661,Sant Hilari Sacalm,Selva,Girona,5835,95,0
+171860,Sarrià de Ter,Gironès,Girona,5294,106,0
+171503,Sils,Selva,Girona,6500,80,0
+172044,Torroella de Montgrí,Baix Empordà,Girona,12061,135,1
+172023,Tossa de Mar,Selva,Girona,4685,87,1
+172274,Vidreres,Selva,Girona,8167,82,0
+172215,Vilafant,Alt Empordà,Girona,5562,136,0
+250115,Alcarràs,Segrià,Lleida,9637,165,0
+250525,Bellpuig,Urgell,Lleida,5168,123,0
+250567,"Borges Blanques, les",Garrigues,Lleida,6248,125,0
+251098,Guissona,Segarra,Lleida,7390,110,0
+252101,Solsona,Solsonès,Lleida,9131,115,0
+430136,"Ametlla de Mar, l'",Baix Ebre,Tarragona,7209,144,1
+431416,"Catllar, el",Tarragonès,Tarragona,4921,92,0
+430471,Constantí,Tarragonès,Tarragona,6685,95,0
+431034,Mont-roig del Camp,Baix Camp,Tarragona,13101,120,1
+430935,Móra d'Ebre,Ribera d'Ebre,Tarragona,5585,150,0
+431000,"Pallaresos, els",Tarragonès,Tarragona,4930,95,0
+431333,Roda de Berà,Tarragonès,Tarragona,7536,75,1
+431438,"Selva del Camp, la",Baix Camp,Tarragona,5696,116,0
+431568,Ulldecona,Montsià,Tarragona,7425,198,0
+431655,Valls,Alt Camp,Tarragona,24724,101,0
+431621,Vandellòs i l'Hospitalet de l'Infant,Baix Camp,Tarragona,6750,132,1
+430529,Deltebre,Baix Ebre,Tarragona,11656,170,1
+431715,Salou,Tarragonès,Tarragona,29028,110,1
+439076,"Canonja, la",Tarragonès,Tarragona,5873,100,0
+081023,Igualada,Anoia,Barcelona,40742,65,0
+082181,Sant Feliu de Codines,Vallès Oriental,Barcelona,6460,39,0
+082582,Santa Maria de Palautordera,Vallès Oriental,Barcelona,9777,54,0
+082855,Tona,Osona,Barcelona,8455,61,0
+171811,Santa Cristina d'Aro,Baix Empordà,Girona,5585,101,1
+431445,"Sénia, la",Montsià,Tarragona,5475,195,0
+431362,"Ràpita, la",Montsià,Tarragona,14767,180,1
+081022,Lliçà d'Amunt,Vallès Oriental,Barcelona,15812,32,0
+170277,"Castell d'Aro, Platja d'Aro i s'Agaró",Baix Empordà,Girona,11757,107,1
+171805,Santa Coloma de Farners,Selva,Girona,13557,90,0
+170479,Castelló d'Empúries,Alt Empordà,Girona,11653,142,1
